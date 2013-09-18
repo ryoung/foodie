@@ -15,3 +15,4 @@ module Foodie
     end
   end
 end
+
