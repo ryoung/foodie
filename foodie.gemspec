@@ -4,8 +4,8 @@ require File.expand_path('../lib/foodie/version', __FILE__)
 Gem::Specification.new do |gem|
   gem.authors       = ["Richard Young"]
   gem.email         = ["ryoung@connamara.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = "SUPER DESCRIPTION"
+  gem.summary       = "SUPER SUMMARY"
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($\)
